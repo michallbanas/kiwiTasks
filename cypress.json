@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://www.kiwi.com/en/",
+    "defaultCommandTimeout": 9000,
+    "experimentalFetchPolyfill": true,
+    "video": false,
+    "viewportHeight": 1050,
+    "viewportWidth": 1680
+}
